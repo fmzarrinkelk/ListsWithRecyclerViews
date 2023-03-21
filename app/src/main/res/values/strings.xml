@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ListsWithRecyclerViews</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="super_cool">Super Cool?</string>
 </resources>
