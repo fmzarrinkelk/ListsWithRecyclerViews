@@ -28,7 +28,6 @@
         android:id="@+id/divider2"
         android:layout_width="5dp"
         android:layout_height="match_parent"
-        android:layout_weight="0"
         android:background="?android:attr/listDivider" />
 
     <CheckBox
